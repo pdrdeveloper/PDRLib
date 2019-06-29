@@ -1,0 +1,19 @@
+{
+  "name": "pdrlib",
+  "version": "1.0.0",
+  "description": "Library for code reuse.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdrdeveloper/PDRLib.git"
+  },
+  "author": "Pedro Henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdrdeveloper/PDRLib/issues"
+  },
+  "homepage": "https://github.com/pdrdeveloper/PDRLib#readme"
+}
